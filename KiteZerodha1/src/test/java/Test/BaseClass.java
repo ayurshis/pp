@@ -1,9 +1,12 @@
 package Test;
 
-import org.openqa.selenium.WebDriver;
-
 public class BaseClass {
-
-		public static WebDriver driver;
+public static void main(String[] args) {
+	
+	System.out.println("ffffffdcssdfcsad");
+	System.out.println("ffffffdcssdfcsad");
+	System.out.println("ffffffdcssdfcsad");
+	
+	System.out.println("ffffffdcssdfcsad");
 	}
-
+}
